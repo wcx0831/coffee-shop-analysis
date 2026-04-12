@@ -40,7 +40,7 @@ This dataset is 100% relevant to the project goal:
 -View the final conclusion and recommendations at the end of the notebook
 
 6. Demo Video
-[Insert your 1-3 minute demo video link here]
+[https://www.bilibili.com/video/BV1wkDQBVEoF/?vd_source=130568a0c42f61c2ac5e423b84506188]
 
 7. Limitations
 - The dataset only includes one coffee shop's data, limiting the generalizability of insights.
