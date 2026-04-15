@@ -52,7 +52,7 @@ Libraries used:
 6. Demo Video
 - Interactive Tool: [https://coffee-shop-analysis-ywdqypywtuumyxjfipqbry.streamlit.app/ ]
 - GitHub Repository: [https://github.com/wcx0831/coffee-shop-analysis]
-- Demo Video: [Your Bilibili / Video Link]
+- Demo Video: [https://www.bilibili.com/video/BV1SfQJBNE2E/?vd_source=130568a0c42f61c2ac5e423b84506188]
 
 7. Limitations
 - Data comes from a single coffee shop, limiting generalisability.
