@@ -47,7 +47,7 @@ Libraries used:
 - Open "coffee_sales_analysis.ipynb" in Jupyter Lab/Jupyter Notebook
 - Run all cells sequentially to reproduce the analysis and visualizations
 - View the final conclusion and recommendations at the end of the notebook
-- run the interactive tool on Streamlit Community Cloud
+- run the interactive tool on Streamlit Community
 
 6. Demo Video
 - Interactive Tool: [https://coffee-shop-analysis-ywdqypywtuumyxjfipqbry.streamlit.app/ ]
