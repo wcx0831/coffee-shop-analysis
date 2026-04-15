@@ -44,13 +44,14 @@ Libraries used:
 -Payment Behavior: 100% of transactions are via card, requiring stable digital payment infrastructure.
 
 5. How to Run
--Open "coffee_sales_analysis.ipynb" in Jupyter Lab/Jupyter Notebook
--Run all cells sequentially to reproduce the analysis and visualizations
--View the final conclusion and recommendations at the end of the notebook
+- Open "coffee_sales_analysis.ipynb" in Jupyter Lab/Jupyter Notebook
+- Run all cells sequentially to reproduce the analysis and visualizations
+- View the final conclusion and recommendations at the end of the notebook
 - run the interactive tool on Streamlit Community Cloud
+
 6. Demo Video
 - Interactive Tool: [https://coffee-shop-analysis-ywdqypywtuumyxjfipqbry.streamlit.app/ ]
-- GitHub Repository: [Your GitHub Link]
+- GitHub Repository: [https://github.com/wcx0831/coffee-shop-analysis]
 - Demo Video: [Your Bilibili / Video Link]
 
 7. Limitations
