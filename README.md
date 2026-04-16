@@ -38,10 +38,10 @@ Libraries used:
 - matplotlib : visual support 
 
 4. Key Findings
--Product Performance: Latte is the highest-revenue product, while Americano with Milk is the most frequently ordered.
--Peak Hours: The daily sales peak is at 10:00 AM, with revenue evenly distributed across morning, afternoon, and night periods.
--Weekly/Monthly Trends: Tuesday is the highest-sales day, Sunday is the lowest; March is the peak season, April is the off-season.
--Payment Behavior: 100% of transactions are via card, requiring stable digital payment infrastructure.
+- Product Performance: Latte is the highest-revenue product, while Americano with Milk is the most frequently ordered.
+- Peak Hours: The daily sales peak is at 10:00 AM, with revenue evenly distributed across morning, afternoon, and night periods.
+- Weekly/Monthly Trends: Tuesday is the highest-sales day, Sunday is the lowest; March is the peak season, April is the off-season.
+- Payment Behavior: 100% of transactions are via card, requiring stable digital payment infrastructure.
 
 5. How to Run
 - Clone or download this GitHub repository to your computer.
